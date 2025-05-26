@@ -47,7 +47,8 @@ The application features a cinema-inspired dark theme, responsive design, and in
 
 > Cinematic and clean design for an immersive experience.
 ![image](https://github.com/user-attachments/assets/601becd9-d071-4823-b62c-c76bb12b847f)
-![image](https://github.com/user-attachments/assets/0472e95e-81a0-4f9e-8f5d-ff16540be1d5)
+----
+![image](https://github.com/user-attachments/assets/fe49dc3b-5819-433b-88d1-c12a413a8034)
 
 ----
 
