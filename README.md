@@ -54,7 +54,7 @@ The application features a cinema-inspired dark theme, responsive design, and in
 ## 📦 Installation & Run Locally
 
 # Clone the repo
-git clone https://github.com/Nuzhatkulsum/AI-MOVIE-RECOMMEND-SYSTEM.git
+git clone https://github.com/Nuzhatkulsum/ai-movie-recommendation-system.git
 cd movie-recommendation-system
 
 # Install 
